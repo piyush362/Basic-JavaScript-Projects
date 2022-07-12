@@ -4,6 +4,7 @@ html, body {
     padding: 0;
     margin:0;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+<<<<<<< HEAD
     color: black;
   }
 .wrapper {
@@ -23,3 +24,6 @@ h2{
     display: inline-block;
     justify-content: center;
 } */
+=======
+  }
+>>>>>>> ecd52b933e2b6bfd583506f21fb81c266fe10811
